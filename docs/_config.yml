@@ -23,7 +23,7 @@ title: Paolo Pierobon Team's Page
 email: paolo.pierobon@inserm.fr
 description: >- # this means to ignore newlines until "baseurl:"
   We are mechanics of immune cells: we are interested in how mechanics shapes
-  the function of lymphocytes and other cells and how we can repair it when soemthing goes wrong.
+  the function of lymphocytes and other cells and how we can repair it when something goes wrong.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://pierobonlab.github.io"
