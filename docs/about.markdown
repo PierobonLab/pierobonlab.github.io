@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-We are based in the G.Roussy building of Institut Cochin in Paris.
-
-*Current address:*
-Institut Cochin, INSERM U1016, CNRS UMR8104
-Bât.G.Roussy, 3rd floor, Office 314
-22 Rue Méchain, 75014 Paris
-Tel: +33 1 40 51 65 60
 
 
-<iframe src="https://maps.app.goo.gl/GKDPG7U5a8emprvG9" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ <style>body {text-align: jusitfy}</style>
+![Image Description](/assets/images/Paolo Pierobon.jpg){: style="float: left; margin-right: 20px; 
+border-radius: 50%; height: 100px;"}
+
+Paolo Pierobon is a physicist by training,CNRS research director at Institut Cochin where he leads the **Mechanics of Immune Cells** sub-team within the [Immune cell signaling and retroviral infection team](https://institutcochin.fr/en/equipes/immune-cell-signaling-and-retroviral-infection) at [Institut Cochin](https://institutcochin.fr/en) headed by C. Randriamampita. The team's research aims at understanding how mechanics influence the action of immune system cells, in particular lymphocyte migration and activation. Experimental approaches combine cell and tissue imaging, micro-fluidics, single-cell analysis technologies and genetically modified mouse models. The team's research lies at the interface between *physics of living systems*, *immunology* and *cell biology*, and is carried out in collaboration with numerous teams within the Institute in France and internationally.
+
