@@ -53,11 +53,11 @@ Zoé is co-supervised by P.Pierobon and H.Moreau and works at [Institut Curie](h
 * Anita Kumari (currently working for PSL University) 2013-2017: [Mechanics of antigen extraction](https://www.theses.fr/2017USPCB037)
 
 #### Master students
-*Mostafa El Raies (Interdisciplinary Master AIRE, Paris Cité University) 3/2024-7/2024: Polarity of B cell, experimental microfluidic approach and simulation with Cytosim. 
+* Mostafa El Raies (Interdisciplinary Master AIRE, Paris Cité University) 3/2024-7/2024: Polarity of B cell, experimental microfluidic approach and simulation with Cytosim. 
 * Oriol Capel Sandin (Master Microfluidics, Paris Jussieu University) 2/2024-7/2024: Deformability cytometry chip to characterize the mechanical properties of cells.
 * Mehdi El-Gorhi (M2 Nanotechnologies, Paris-Saclay University, Co-supervised with B. Bartenlian (C2N, Saclay) 3/2023-7/2023: Cell mechanics in microfluidic chip.
 
-## In Curie
+#### In Curie
 * Pierre-Gabriel Roche (M2, ENS-Lyon, Ecole de Medecine INSERM, Co-supervised with Dr. Hélène Moreau) 2/2021-6/2021: Activation of T cells in microfluidics traps.
 * Judith Pineau (M2, AIV-Paris Descartes) 3/2017-6/2017: 3D force measurement during antigen acquisition. 
 * Anna Manoux (M2, AIV-Paris Descartes) 10/2016-12/2016: B cell polarization in microfluidic traps.
