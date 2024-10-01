@@ -36,7 +36,8 @@ Zoé is co-supervised by P.Pierobon and H.Moreau and works at [Institut Curie](h
 <br>
 
 #### The team @ Cochin
-![Image Description](/assets/images/CRteam_banner.jpg){: style="float: center; margin-right: 20px; height: 100px;"}
+![Image Description](/assets/images/CRteam_banner.jpg){: style="float: center; margin-right: 20px; height: 130px;"}
+
 We are part of the group [Immune cell signaling and retroviral infection](https://institutcochin.fr/en/equipes/immune-cell-signaling-and-retroviral-infection) that will become the group Dycric (Dynamics of cytoskeleton related response in immune cells) in January 2025 co-directed by Paolo Pierobon and Jérôme Delon. Check the [projects](https://institutcochin.fr/en/equipes/immune-cell-signaling-and-retroviral-infection) currently running!
 
 
