@@ -21,6 +21,15 @@ Luisa is a biomedical engineer who is trying to uncover the secret of lymphnode 
 
 <br>
 
+#### Alexia Charamel (Lab technician)
+
+![Image Description](/assets/images/Alexia Charamel.jpg){: style="float: left; margin-right: 20px; 
+border-radius: 50%; height: 100px;"}
+Alexia helds a bachelor in biochemistry from Montepellier University and a master degree in pharmacology and toxicology from University of Strasbourg. She joined the group in January 2024 to support different experiments, in particular microfluidic in vitro approaches. 
+<br>
+
+
+
 #### Zoé Fusilier (PhD student)
 Zoé is co-supervised by P.Pierobon and H.Moreau and works at [Institut Curie](https://institut-curie.org/) in the team of A.M.Lennon [Spatio-Temporal Dynamics of immune cells](https://institut-curie.org/team/lennon). She works on the topographical and mechanical properties of extracellular matrix in tumors.
 
@@ -38,10 +47,10 @@ Zoé is co-supervised by P.Pierobon and H.Moreau and works at [Institut Curie](h
 # Alumni
 
 #### PhD students
-* Judith Pineau (currently postdoc in Institut Pasteur) 2017-2021: [Polarization dynamics and force generation at the B lymphocyte immune synapse](https://www.theses.fr/s186043)
+* Judith Pineau (currently postdoc in Institut Curie UMR144) 2017-2021: [Polarization dynamics and force generation at the B lymphocyte immune synapse](https://www.theses.fr/s186043)
 * Lea Pinon (currently postdoc in Institut Pasteur) 2017-2021: 
 [Emulsion droplets and microfluidic traps to study the B cells polarization and its mechanics](https://www.theses.fr/2021SORUS573)
-* Anita Kumari (currently working in private company) 2013-2017: [Mechanics of antigen extraction](https://www.theses.fr/2017USPCB037)
+* Anita Kumari (currently working for PSL University) 2013-2017: [Mechanics of antigen extraction](https://www.theses.fr/2017USPCB037)
 
 #### Master students
 * Sarra Achouri (M1 Ervy) 2/2007-7/2007: Single molecule tracking in the cell.
@@ -58,4 +67,5 @@ Zoé is co-supervised by P.Pierobon and H.Moreau and works at [Institut Curie](h
 * Judith Pineau (M2, AIV-Paris Descartes) 3/2017-6/2017: 3D force measurement during antigen acquisition. 
 * Pierre-Gabriel Roche (M2, ENS-Lyon, Ecole de Medecine INSERM, Co-supervised with Dr. Hélène Moreau) 2/2021-6/2021: Activation of T cells in microfluidics traps.
 * Mehdi El-Gorhi (M2 Nanotechnologies, Paris-Saclay University, Co-supervised with B. Bartenlian (C2N, Saclay) 3/2023-7/2023: Cell mechanics in microfluidic chip.
+* 
 
