@@ -26,12 +26,20 @@ Luisa is a biomedical engineer who is trying to uncover the secret of lymphnode 
 ![Image Description](/assets/images/Alexia Charamel.jpg){: style="float: left; margin-right: 20px; 
 border-radius: 50%; height: 100px;"}
 Alexia helds a bachelor in biochemistry from Montepellier University and a master degree in pharmacology and toxicology from University of Strasbourg. She joined the group in January 2024 to support different experiments, in particular microfluidic in vitro approaches. 
+
 <br>
 
-
-
 #### Zoé Fusilier (PhD student)
+
 Zoé is co-supervised by P.Pierobon and H.Moreau and works at [Institut Curie](https://institut-curie.org/) in the team of A.M.Lennon [Spatio-Temporal Dynamics of immune cells](https://institut-curie.org/team/lennon). She works on the topographical and mechanical properties of extracellular matrix in tumors.
+
+<br>
+
+#### The team @ Cochin
+![Image Description](/assets/images/CRteam_banner.jpg){: style="float: center; margin-right: 20px; height: 100px;"}
+We are part of the group [Immune cell signaling and retroviral infection](https://institutcochin.fr/en/equipes/immune-cell-signaling-and-retroviral-infection) that will become the group Dycric (Dynamics of cytoskeleton related response in immune cells) in January 2025 co-directed by Paolo Pierobon and Jérôme Delon. Check the [projects](https://institutcochin.fr/en/equipes/immune-cell-signaling-and-retroviral-infection) currently running!
+
+
 
 
 # Collaborators
