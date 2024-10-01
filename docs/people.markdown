@@ -21,7 +21,7 @@ Luisa is a biomedical engineer who is trying to uncover the secret of lymphnode 
 
 <br>
 
-#### Alexia Charamel (Lab technician)
+#### Alexia Charamel (Lab technician - IE)
 
 ![Image Description](/assets/images/Alexia Charamel.jpg){: style="float: left; margin-right: 20px; 
 border-radius: 50%; height: 100px;"}
@@ -53,19 +53,21 @@ Zoé is co-supervised by P.Pierobon and H.Moreau and works at [Institut Curie](h
 * Anita Kumari (currently working for PSL University) 2013-2017: [Mechanics of antigen extraction](https://www.theses.fr/2017USPCB037)
 
 #### Master students
-* Sarra Achouri (M1 Ervy) 2/2007-7/2007: Single molecule tracking in the cell.
+*Mostafa El Raies (Interdisciplinary Master AIRE, Paris Cité University) 3/2024-7/2024: Polarity of B cell, experimental microfluidic approach and simulation with Cytosim. 
+* Oriol Capel Sandin (Master Microfluidics, Paris Jussieu University) 2/2024-7/2024: Deformability cytometry chip to characterize the mechanical properties of cells.
+* Mehdi El-Gorhi (M2 Nanotechnologies, Paris-Saclay University, Co-supervised with B. Bartenlian (C2N, Saclay) 3/2023-7/2023: Cell mechanics in microfluidic chip.
+
+## In Curie
+* Pierre-Gabriel Roche (M2, ENS-Lyon, Ecole de Medecine INSERM, Co-supervised with Dr. Hélène Moreau) 2/2021-6/2021: Activation of T cells in microfluidics traps.
+* Judith Pineau (M2, AIV-Paris Descartes) 3/2017-6/2017: 3D force measurement during antigen acquisition. 
+* Anna Manoux (M2, AIV-Paris Descartes) 10/2016-12/2016: B cell polarization in microfluidic traps.
+* Uchenna Anyaegbunam (M2, AIV-Paris Descartes) 10/2015-12/2015: Actin Flows and Force Generation in B Cells.
+* Anita Kumari (M2, AIV-Paris Descartes) 12/2012-3/2013: B cell mechanics tested by optical tweezers. 3/2013-6/2013: Analysis of single B cell receptor trajectories. 
+* Naga Venkata Gayathri Vegesna (M2 Nano-Biophotonics, ENS Cachan) 2/2012-9/2012: Single molecule study of the B cell receptor diffusion.
+* Vinoth Edal Sundar-Rajan (M2 Nano-Biophotonics, ENS Cachan) 11/2010-10/2011: Effect of tacol in intracellular transport. 
+* Violaine Randrian (medical school, Paris Descartes) 7/2010-8/2010: Quantum dots internalization in dendritic cells.
+* Magali Florens (M2 ENS Cachan, co-supervised with G. Cappello) 3/2008-6/2008: Study of the intracellular traffic by single molecule approach.
+* Simone Liuzzo (Leonardo Student, cosupervised with G. Cappello) 9/2008-12/2008: Real time detection of nano particles.
 * Dejan Skrelik et Hiba Sarrouj (M1 Paris VI, co-supervised with G. Cappello)
 2/2008-7/2008: Detection of Myosin V steps by travelling wave tracking. 
-* Simone Liuzzo (Leonardo Student, cosupervised with G. Cappello) 9/2008-12/2008: Real time detection of nano particles.
-* Magali Florens (M2 ENS Cachan, co-supervised with G. Cappello) 3/2008-6/2008: Study of the intracellular traffic by single molecule approach.
-* Violaine Randrian (medical school, Paris Descartes) 7/2010-8/2010: Quantum dots internalization in dendritic cells.
-* Vinoth Edal Sundar-Rajan (M2 Nano-Biophotonics, ENS Cachan) 11/2010-10/2011: Effect of tacol in intracellular transport. 
-* Naga Venkata Gayathri Vegesna (M2 Nano-Biophotonics, ENS Cachan) 2/2012-9/2012: Single molecule study of the B cell receptor diffusion.
-* Anita Kumari (M2, AIV-Paris Descartes) 12/2012-3/2013: B cell mechanics tested by optical tweezers. 3/2013-6/2013: Analysis of single B cell receptor trajectories. 
-* Uchenna Anyaegbunam (M2, AIV-Paris Descartes) 10/2015-12/2015: Actin Flows and Force Generation in B Cells.
-* Anna Manoux (M2, AIV-Paris Descartes) 10/2016-12/2016: B cell polarization in microfluidic traps.
-* Judith Pineau (M2, AIV-Paris Descartes) 3/2017-6/2017: 3D force measurement during antigen acquisition. 
-* Pierre-Gabriel Roche (M2, ENS-Lyon, Ecole de Medecine INSERM, Co-supervised with Dr. Hélène Moreau) 2/2021-6/2021: Activation of T cells in microfluidics traps.
-* Mehdi El-Gorhi (M2 Nanotechnologies, Paris-Saclay University, Co-supervised with B. Bartenlian (C2N, Saclay) 3/2023-7/2023: Cell mechanics in microfluidic chip.
-* 
-
+* Sarra Achouri (M1 Ervy) 2/2007-7/2007: Single molecule tracking in the cell.* 
