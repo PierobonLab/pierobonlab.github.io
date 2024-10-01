@@ -23,7 +23,7 @@ Luisa is a biomedical engineer who is trying to uncover the secret of lymphnode 
 
 #### Alexia Charamel (Lab technician - IE)
 
-![Image Description](/assets/images/Alexia Charamel.jpg){: style="float: left; margin-right: 20px; 
+![Image Description](/assets/images/Luisa Bruno.jpg){: style="float: left; margin-right: 20px; 
 border-radius: 50%; height: 100px;"}
 Alexia helds a bachelor in biochemistry from Montepellier University and a master degree in pharmacology and toxicology from University of Strasbourg. She joined the group in January 2024 to support different experiments, in particular microfluidic in vitro approaches. 
 <br>
