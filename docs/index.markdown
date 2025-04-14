@@ -12,8 +12,6 @@ layout: home
 
 We are a team of cell biologists and biophysicists working on mechanical aspects of immune response, B cells (but not only), lymphocyte polarity, immune synapse and lymph node tissue properties. We love microscopy, image analysis, microfabrication and biophysical modeling. 
 
-We are part of the [Immune cell signaling and retroviral infection team](https://institutcochin.fr/en/equipes/immune-cell-signaling-and-retroviral-infection) at [Institut Cochin](https://institutcochin.fr/en).
-
-We are mounting a two-head team focused on cytoskeleton and immunity with [Jérôme Delon](https://institutcochin.fr/en/projets-recherche/role-rho-gtpases-immune-responses): stay tuned! 
+We are part of the [DyCRIC team](https://institutcochin.fr/en/equipes/dynamics-cytoskeleton-dependent-responses-immune-cells) (Dynamics of cytoskeleton dependent responses of immune cells) at [Institut Cochin](https://institutcochin.fr/en) that I co-direct with [Jérôme Delon](https://institutcochin.fr/en/projets-recherche/role-rho-gtpases-immune-responses)! 
 
 
